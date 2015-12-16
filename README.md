@@ -5,3 +5,6 @@ Bias Variance Tradeoff Explanantion http://scott.fortmann-roe.com/docs/BiasVaria
 
 Bayes Decision Boundary | Bayes error Rate
 
+# OtherNotes
+
+
